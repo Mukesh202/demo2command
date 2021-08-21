@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "bank": "Hsbc",
+            "policy": 20,
+            "branch": "J.K. Rowling ",
+            "serialNo": "154"
+        },
+        {
+            "bank": "Hsbc",
+            "policy": 21,
+            "branch": "J.K. Rowling2 ",
+            "serialNo": "155"
+        }
+    ]
+}
